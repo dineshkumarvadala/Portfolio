@@ -45,7 +45,7 @@ export default function Hero({ isDark }: HeroProps) {
                 Hire Me
               </a>
               <a
-                href="public\Resume.pdf"
+                href="public\projects\Resume.pdf"
                 download
                 className={`inline-flex items-center justify-center gap-2 px-8 py-4 font-semibold rounded-lg transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl ${
                   isDark
@@ -67,7 +67,7 @@ export default function Hero({ isDark }: HeroProps) {
                 }`}
               >
                 <img
-  src="public\Dini.png"       // <-- add your image file inside public/
+  src="public\projects\Dini.png"       // <-- add your image file inside public/
   alt="Dinesh Kumar"
   className="w-full h-full object-cover"
 />
