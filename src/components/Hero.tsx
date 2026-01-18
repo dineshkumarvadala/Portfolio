@@ -67,7 +67,7 @@ export default function Hero({ isDark }: HeroProps) {
                 }`}
               >
                 <img
-  src="public\dini...png"       // <-- add your image file inside public/
+  src="public\Dini.png"       // <-- add your image file inside public/
   alt="Dinesh Kumar"
   className="w-full h-full object-cover"
 />
