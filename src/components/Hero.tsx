@@ -45,7 +45,7 @@ export default function Hero({ isDark }: HeroProps) {
                 Hire Me
               </a>
               <a
-                href="public\Dinesh resume (1).pdf"
+                href="public\Resume.pdf"
                 download
                 className={`inline-flex items-center justify-center gap-2 px-8 py-4 font-semibold rounded-lg transition-all duration-300 transform hover:scale-105 shadow-lg hover:shadow-xl ${
                   isDark
